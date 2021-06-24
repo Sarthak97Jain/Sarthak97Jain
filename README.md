@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sarthak97Jain
 - 👀 I’m interested in coding and development 
-- 🌱 I’m currently learning datastructures and algorithm to use in my code
 - 💞️ I’m looking to collaborate on new projects
 - 📫 mail sarthakjain845@gmail.com 
 
