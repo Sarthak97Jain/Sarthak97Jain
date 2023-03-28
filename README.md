@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Sarthak97Jain
-- 👀 I’m interested in coding and development 
-- 💞️ I’m looking to collaborate on new projects
-- 📫 mail sarthakjain845@gmail.com 
+- 👋 Hi, I’m Sarthak Jain
+- 👀 I’m a Software engineer and most of my work revolves around Frontend technologies.
+- 💞️ Just hit me up, if you want to collaborate on React/Angular projects p.s. anything Frontend.
+- 📫 email:  sarthakjain845@gmail.com 
 
-<!---
-Sarthak97Jain/Sarthak97Jain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
